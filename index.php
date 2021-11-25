@@ -136,7 +136,7 @@
 
 <!-- Welcome section -->
 <section class="welcome py-5 my-lg-5" id="welcome">
-	<h3 class="heading text-center text-uppercase">FUNMILOLA Solutions Limited</h3>
+	<h3 class="heading text-center text-uppercase">Africa Energy Solutions Limited</h3>
 	<!-- <p class="heading-bottom text-center font-italic mb-5">Industrial Revolution Business</p> -->
 	<div class="container">
 		<div class="row">

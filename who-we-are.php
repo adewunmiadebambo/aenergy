@@ -56,7 +56,7 @@
 <section class="content-info py-5" id="about">
         <div class="container py-md-5">
             <div class="text-center px-lg-5">
-            <h1 class="page_heading text-uppercase">FUNMI</h1><br>
+            <h1 class="page_heading text-uppercase">Who We Are</h1><br>
                 <div class="title-desc text-center px-lg-5">
 					<p>Africa Energy Solutions is an emerging market leading solution provider incorporated in Nigeria under the Companies and Allied Matters Act 1990. We are a proudly African Engineering Services company headquartered in Nigeria. Our company is primarily focused on delivery of World class technical services to Critical African Infrastructure. i.e. Power , Oil & Gas; Water, Transportation.<br><br>
 					
